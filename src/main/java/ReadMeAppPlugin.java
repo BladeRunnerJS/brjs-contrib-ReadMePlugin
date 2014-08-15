@@ -14,7 +14,7 @@ import org.bladerunnerjs.plugin.Event;
 import org.bladerunnerjs.plugin.EventObserver;
 import org.bladerunnerjs.plugin.base.AbstractModelObserverPlugin;
 
-//This plugin was created by Thomas Jager (QA from Rob Moore)
+//This plugin was created by Thomas Jager (QA from rob moore)
 
 public class ReadMeAppPlugin extends AbstractModelObserverPlugin implements EventObserver {
     private BRJS brjs;
