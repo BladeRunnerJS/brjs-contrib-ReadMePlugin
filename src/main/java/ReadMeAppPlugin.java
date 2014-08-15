@@ -47,12 +47,3 @@ public class ReadMeAppPlugin extends AbstractModelObserverPlugin implements Even
         }
     }
 }
-    
-
-
-
-
-
-
-
-
